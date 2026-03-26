@@ -7,7 +7,6 @@
 'require form';
 'require poll';
 'require rpc';
-'require uci';
 'require view';
 
 const callServiceList = rpc.declare({
